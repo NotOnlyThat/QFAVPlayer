@@ -1,3 +1,2 @@
-# EngLishDictionary
-Learning English Project
+# QFAVPlayer
 第一次尝试
