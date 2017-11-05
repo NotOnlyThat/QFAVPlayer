@@ -19,7 +19,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self configAVPlayerWithURL:@"http://01n-data.oss-cn-hangzhou.aliyuncs.com/media/ugc/video_record/400.mp4"];
+    [self configAVPlayerWithURL:@"http://lavaweb-10015286.video.myqcloud.com/hong-song-mei-gui-mu-2.mp4"];
 }
 -(id)qf_playerView{
     if (_qf_playerView == nil) {
