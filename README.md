@@ -28,7 +28,8 @@ if (cacheFilePath){
 }
 ```
 <h3>二、部分截图 </h3>https://github.com/NotOnlyThat/QFAVPlayer
-![部分截图](https://github.com/NotOnlyThat/QFAVPlayer/Screenshots/path.png
+
+<img src="https://github.com/NotOnlyThat/QFAVPlayer/blob/master/Screenshots/path.png">
 
 <h3>三、运行结果 </h3>
-![部分截图](https://github.com/NotOnlyThat/QFAVPlayer/Screenshots/cache.png
+<img src="https://github.com/NotOnlyThat/QFAVPlayer/blob/master/Screenshots/cache.png">
