@@ -3,7 +3,7 @@
 1.添加变下变播功能
 2.最简单的必不可少的逻辑代码
 3.功能分类
-
+123
 <h3>一、使用方法 </h3>
 
 ```
@@ -28,8 +28,8 @@ if (cacheFilePath){
 }
 ```
 <h3>二、部分截图 </h3>https://github.com/NotOnlyThat/QFAVPlayer
-
+<测试>
 <img src="https://github.com/NotOnlyThat/QFAVPlayer/blob/master/Screenshots/path.png">
-
+<测试>
 <h3>三、运行结果 </h3>
 <img src="https://github.com/NotOnlyThat/QFAVPlayer/blob/master/Screenshots/cache.png">
